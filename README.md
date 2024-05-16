@@ -16,7 +16,7 @@ Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 
 # Documentation
 
-  [LevelDB library documentation](https://github.com/google/leveldb/blob/master/doc/index.md) is online and bundled with the source code.
+  [LevelDB library documentation](https://github.com/RegusCrypto/leveldb/blob/master/docs/index.md) is online and bundled with the source code.
 
 # Limitations
 
